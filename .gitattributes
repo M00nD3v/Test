@@ -1,4 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-*.tst linguist-language=Custom-Test-Language
+*.tst linguist-language=C
+*.html linguist-language=PHP
